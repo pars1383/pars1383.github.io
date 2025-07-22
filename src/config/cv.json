@@ -1,62 +1,63 @@
 {
     "basic": {
-        "name": "Paul Smith",
-        "job": "Software Engineer",
-        "summary": "Transforming challenges into opportunities with cutting-edge technology. Driven by a love for elegant, robust code.",
-        "cv_file_name": "paul_cv.pdf"
+        "name": "Parsa Alizadeh",
+        "job": "Computer Engineer",
+        "summary": "Computer Engineering student at University of Tehran.",
+        "cv_file_name": "Resume.pdf"
     },
     "experiences": [
         {
-            "title": "Senior Software Engineer",
-            "sub_title": "Tech Solutions Inc.",
-            "years": "2021 - Present",
-            "details": "Led the development of a scalable e-commerce platform that increased sales by 30%. Worked with modern technologies including React, Node.js, and AWS."
-        },
-        {
-            "title": "Software Engineer",
-            "sub_title": "Innovate Labs",
-            "years": "2018 - 2021",
-            "details": "Developed and maintained web applications for various clients. Key contributor in migrating legacy systems to cloud infrastructure."
-        },
-        {
-            "title": "Junior Developer",
-            "sub_title": "Creative Apps Studio",
-            "years": "2015 - 2018",
-            "details": "Worked on mobile app development, collaborating with design teams to create user-friendly applications."
+            "title": "Hardware Engineering Internship",
+            "sub_title": "Samim",
+            "years": "2025 - Present",
+            "details": "Building Broadcast devices for media."
         }
     ],
     "education": [
         {
-            "title": "Bachelor of Science in Computer Science",
-            "sub_title": "University of Modern Tech",
-            "years": "2015 - 2019",
-            "details": "Graduated with honors. Specialized in software development, data structures, and algorithms. Worked on various open-source projects and completed internships in tech companies."
-        },
-        {
-            "title": "Master of Science in Software Engineering",
-            "sub_title": "Global Tech Institute",
-            "years": "2019 - 2021",
-            "details": "Focused on advanced algorithms, cloud computing, and full-stack development. Published research papers on scalable microservices architecture."
-        }
+            "title": "Bachelor of Science in Computer Engineering",
+            "sub_title": "University of Tehran",
+            "years": "2022 - Present",
+            "details": ""
+        }   
     ],
     "projects": [
         {
-            "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=764&auto=format&fit=crop",
-            "title": "hello.com",
+            "imageUrl": "https://www.technolife.com/wp-content/uploads/2024/04/generative-ai.jpg",
+            "title": "Artificial Intelligence Projects",
             "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "link": "https://github.com/pars1383/Inroduction-to-Artificial-Intelligence"
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=764&auto=format&fit=crop",
-            "title": "Paul UI kit collections",
-            "type": "UI Kit",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "imageUrl": "https://api2.zoomit.ir/media/2020-12-arm-cpu-638c651da77666af5aef1347?w=1200&q=80",
+            "title": "ARM Processor",
+            "type": "Website",
+            "link": "https://github.com/pars1383/ARM-processor"
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=764&auto=format&fit=crop",
-            "title": "paul.com",
+            "imageUrl": "https://chabokan.net/blog/wp-content/uploads/2022/12/word-image-1663-1.jpeg",
+            "title": "Operating System Lab",
             "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "link": "https://github.com/pars1383/Operating-Systems"
+        },
+
+        {
+            "imageUrl": "https://chabokan.net/blog/wp-content/uploads/2022/12/word-image-1663-1.jpeg",
+            "title": "Operating System Course Projects",
+            "type": "Website",
+            "link": "https://github.com/pars1383/OS-xv6-public"
+        },
+        {
+            "imageUrl": "https://private-user-images.githubusercontent.com/111230721/429436273-b4e0cdef-f1b0-46db-95a1-1de91d91812d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODc0NjcsIm5iZiI6MTc1MTk4NzE2NywicGF0aCI6Ii8xMTEyMzA3MjEvNDI5NDM2MjczLWI0ZTBjZGVmLWYxYjAtNDZkYi05NWExLTFkZTkxZDkxODEyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQxNTA2MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YWQxZjJiNDY0YjNhNjlhYjgyOTU3OGM5ZWJkYWUzOGE5MjAzYzZmNWE1MjJlOThlMWYwMDQzZGMzYTRmNjQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bMY1HYhQkTpc20RAINPel2Q42fOXeU09M2XUdNmAYpc",
+            "title": "Making an online Bomber Man game with socket programming",
+            "type": "Website",
+            "link": "https://github.com/pars1383/CN-CA-1"
+        },
+        {
+            "imageUrl": "https://media.geeksforgeeks.org/wp-content/uploads/20240705120347/Working-of-DFS.webp",
+            "title": "Distributed File System over LAN ",
+            "type": "Website",
+            "link": "https://github.com/pars1383/CN_CA_2"
         }
     ],
     "menuItems": [
@@ -72,15 +73,15 @@
     "socialLinks": [
         {
             "iconName": "Github",
-            "link": "https://github.com/wasutz/astro-resume-theme"
-        },
-        {
-            "iconName": "Facebook",
-            "link": "https://facebook.com"
+            "link": "https://github.com/Pars1383"
         },
         {
             "iconName": "Instagram",
-            "link": "https://instagram.com"
+            "link": "https://instagram.com/parsa.fowl"
+        },
+        {
+            "iconName": "Linkedin",
+            "link": "www.linkedin.com/in/parsa-alizadeh-1159661b1"
         }
     ]
 }
