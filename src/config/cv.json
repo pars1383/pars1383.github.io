@@ -1,0 +1,88 @@
+{
+    "basic": {
+        "name": "Parsa Alizadeh",
+        "job": "Computer Engineer",
+        "summary": "Computer Engineering student at University of Tehran.",
+        "cv_file_name": "Resume.pdf"
+    },
+    "experiences": [
+        {
+            "title": "Hardware Engineering Internship",
+            "sub_title": "Samim",
+            "years": "2025 - Present",
+            "details": "Building Broadcast devices for media and Communication devices."
+        }
+    ],
+    "education": [
+        {
+            "title": "Bachelor of Science in Computer Engineering",
+            "sub_title": "University of Tehran",
+            "years": "2022 - Present",
+            "details": ""
+        }   
+    ],
+    "projects": [
+        {
+            "imageUrl": "https://www.technolife.com/wp-content/uploads/2024/04/generative-ai.jpg",
+            "title": "Artificial Intelligence Projects",
+            "type": "Website",
+            "link": "https://github.com/pars1383/Inroduction-to-Artificial-Intelligence"
+        },
+        {
+            "imageUrl": "https://api2.zoomit.ir/media/2020-12-arm-cpu-638c651da77666af5aef1347?w=1200&q=80",
+            "title": "ARM Processor",
+            "type": "Website",
+            "link": "https://github.com/pars1383/ARM-processor"
+        },
+        {
+            "imageUrl": "https://chabokan.net/blog/wp-content/uploads/2022/12/word-image-1663-1.jpeg",
+            "title": "Operating System Lab",
+            "type": "Website",
+            "link": "https://github.com/pars1383/Operating-Systems"
+        },
+
+        {
+            "imageUrl": "https://chabokan.net/blog/wp-content/uploads/2022/12/word-image-1663-1.jpeg",
+            "title": "Operating System Course Projects",
+            "type": "Website",
+            "link": "https://github.com/pars1383/OS-xv6-public"
+        },
+        {
+            "imageUrl": "https://private-user-images.githubusercontent.com/111230721/429436273-b4e0cdef-f1b0-46db-95a1-1de91d91812d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODc0NjcsIm5iZiI6MTc1MTk4NzE2NywicGF0aCI6Ii8xMTEyMzA3MjEvNDI5NDM2MjczLWI0ZTBjZGVmLWYxYjAtNDZkYi05NWExLTFkZTkxZDkxODEyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQxNTA2MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YWQxZjJiNDY0YjNhNjlhYjgyOTU3OGM5ZWJkYWUzOGE5MjAzYzZmNWE1MjJlOThlMWYwMDQzZGMzYTRmNjQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bMY1HYhQkTpc20RAINPel2Q42fOXeU09M2XUdNmAYpc",
+            "title": "Making an online Bomber Man game with socket programming",
+            "type": "Website",
+            "link": "https://github.com/pars1383/CN-CA-1"
+        },
+        {
+            "imageUrl": "https://media.geeksforgeeks.org/wp-content/uploads/20240705120347/Working-of-DFS.webp",
+            "title": "Distributed File System over LAN ",
+            "type": "Website",
+            "link": "https://github.com/pars1383/CN_CA_2"
+        }
+    ],
+    "menuItems": [
+        {
+            "name": "About",
+            "link": "/"
+        },
+        {
+            "name": "Blog",
+            "link": "/blogs"
+        }
+    ],
+    "socialLinks": [
+        {
+            "iconName": "Github",
+            "link": "https://github.com/Pars1383"
+        },
+        {
+            "iconName": "Instagram",
+            "link": "https://instagram.com/parsa.fowl"
+        },
+        {
+            "iconName": "Linkedin",
+            "link": "www.linkedin.com/in/parsa-alizadeh-1159661b1"
+        }
+    ]
+    
+}
